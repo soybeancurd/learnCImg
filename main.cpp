@@ -7,6 +7,7 @@
 using namespace std;
 // using namespace cimg_library;
 
+
 void doSomething();
 // void doSomething() {
 //     cout << "did something" << endl;
